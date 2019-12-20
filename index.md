@@ -15,4 +15,5 @@ I am a postgraduate student at the University of Ioannina.
 ### Contact Me
 
 E-mail : `fsechai (at) cse.uoi.gr`
-My LinkedIn [account](https://www.linkedin.com/in/fation-shehaj-62b65b142/)
+
+My LinkedIn [account](https://www.linkedin.com/in/fation-shehaj/)
