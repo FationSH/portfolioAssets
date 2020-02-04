@@ -3,8 +3,10 @@
 ### About me
 
 ```markdown
-I am a postgraduate student at the University of Ioannina.
-
+Bachelor of Engineering : Computer Science and Engineering (2012-2017)
+Integrated master : Haptic robotics (2016-2017)
+I am currently a postgraduate student at the University of Ioannina.
+Field of study : Data and Computer Systems Engineering.
 ```
 
 # Interests
