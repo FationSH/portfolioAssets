@@ -18,4 +18,5 @@ Field of study : Data and Computer Systems Engineering.
 
 E-mail : `fsechai (at) cse.uoi.gr`
 
+GitHub [profile](https://github.com/FationSH)
 My LinkedIn [account](https://www.linkedin.com/in/fation-shehaj/)
