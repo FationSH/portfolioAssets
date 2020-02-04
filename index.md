@@ -11,8 +11,9 @@ Field of study : Data and Computer Systems Engineering.
 
 # Interests
 1. Algorithms and Data Structures
-2. Robotics
-3. Android
+2. Graph analysis
+3. Robotics
+4. Android
 
 ### Contact Me
 
