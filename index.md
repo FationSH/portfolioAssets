@@ -15,6 +15,10 @@ Field of study : Data and Computer Systems Engineering.
 3. Robotics
 4. Android
 
+## Projects
+GitHub [repositories](https://github.com/FationSH?tab=repositories)
+[Fairness in a real Social Network](https://george50450.github.io/social_networks/#data)
+
 ### Contact Me
 
 E-mail : `fsechai (at) cse.uoi.gr`
