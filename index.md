@@ -4,7 +4,7 @@
 ---
 >The name's ***FATION SHEHAJ***. I am a tireless seeker of knowledge.
 >
->>**CV:**
+>**CV:**
 >
 >Bachelor of Engineering : Computer Science and Engineering. University of Ioannina, Greece (2012-2017).
 >Integrated master : Design and Implementation of a 3DoF Haptic Device (2016-2017).
