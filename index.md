@@ -10,8 +10,7 @@ I am currently a postgraduate student at the University of Ioannina.
 Field of study : Data and Computer Systems Engineering.
 ```
 
-### Motto
-> Someone once tolde me the definition of hell: On your last day on earth, the person you became will meet the person you could have become.
+> **Motto:** Someone once tolde me the definition of hell: On your last day on earth, the person you became will meet the person you could have become.
 
 ### Interests
 1. Algorithms and Data Structures
