@@ -16,8 +16,9 @@ Field of study : Data and Computer Systems Engineering.
 4. Android
 
 ### Projects
-GitHub [repositories](https://github.com/FationSH?tab=repositories)
-[Fairness in a real Social Network](https://george50450.github.io/social_networks/#data)
+My GitHub [repositories](https://github.com/FationSH?tab=repositories)
+
+Fairness in a real Social Network. [page](https://george50450.github.io/social_networks/#data)
 
 ### Contact Me
 
