@@ -1,6 +1,6 @@
-## Welcome to My Page
+# Welcome to My Page
 
-### About me
+## About me
 
 ```markdown
 Bachelor of Engineering : Computer Science and Engineering (2012-2017)
@@ -9,13 +9,13 @@ I am currently a postgraduate student at the University of Ioannina.
 Field of study : Data and Computer Systems Engineering.
 ```
 
-# Interests
+### Interests
 1. Algorithms and Data Structures
 2. Graph analysis
 3. Robotics
 4. Android
 
-## Projects
+### Projects
 GitHub [repositories](https://github.com/FationSH?tab=repositories)
 [Fairness in a real Social Network](https://george50450.github.io/social_networks/#data)
 
