@@ -10,9 +10,9 @@ I am currently a postgraduate student at the University of Ioannina.
 Field of study : Data and Computer Systems Engineering.
 ```
 
-### Mottos
+### Motto
+> Someone once tolde me the definition of hell:
 > On your last day on earth, the person you became will meet the person you could have become.
-> The dream is free. The hustle is sold seperately.
 
 ### Interests
 1. Algorithms and Data Structures
