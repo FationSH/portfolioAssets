@@ -3,9 +3,12 @@
 ## About me
 
 ```markdown
-My name's FATION SHEHAJ. I am a tireless seeker of knowledge.
+The name's **FATION SHEHAJ**. I am a tireless seeker of knowledge.
+
+**CV:**
 Bachelor of Engineering : Computer Science and Engineering (2012-2017)
-Integrated master : Haptic robotics (2016-2017)
+Integrated master : Design and Implementation of a 3DoF Haptic Device (2016-2017)
+
 I am currently a postgraduate student at the University of Ioannina.
 Field of study : Data and Computer Systems Engineering.
 ```
