@@ -3,11 +3,16 @@
 ## About me
 
 ```markdown
+My name's FATION SHEHAJ. I am a tireless seeker of knowledge.
 Bachelor of Engineering : Computer Science and Engineering (2012-2017)
 Integrated master : Haptic robotics (2016-2017)
 I am currently a postgraduate student at the University of Ioannina.
 Field of study : Data and Computer Systems Engineering.
 ```
+
+### Mottos
+> On your last day on earth, the person you became will meet the person you could have become.
+> The dream is free. The hustle is sold seperately.
 
 ### Interests
 1. Algorithms and Data Structures
