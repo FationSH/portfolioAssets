@@ -3,9 +3,9 @@
 ## About me
 
 ```markdown
-The name's **FATION SHEHAJ**. I am a tireless seeker of knowledge.
+The name's FATION SHEHAJ. I am a tireless seeker of knowledge.
 
-**CV:**
+CV:
 Bachelor of Engineering : Computer Science and Engineering (2012-2017)
 Integrated master : Design and Implementation of a 3DoF Haptic Device (2016-2017)
 
@@ -14,7 +14,7 @@ Field of study : Data and Computer Systems Engineering.
 ```
 
 > **Motto:**
-> Someone once tolde me the definition of hell: On your last day on earth, the person you became will meet the person you could have become.
+>> Someone once tolde me the definition of hell: On your last day on earth, the person you became will meet the person you could have become.
 
 ### Interests
 1. Algorithms and Data Structures
