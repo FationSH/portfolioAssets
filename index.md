@@ -11,7 +11,6 @@
 >
 >I am currently a postgraduate student at the University of Ioannina.
 >Field of study : Data and Computer Systems Engineering.
----
 
 ```markdown
 Motto:
