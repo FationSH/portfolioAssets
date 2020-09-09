@@ -10,8 +10,7 @@
   </head>
 
 <style>
-
-  html {
+html {
   --scroll-behavior: smooth;
   scroll-behavior: var(--scroll-behavior);
   
@@ -44,12 +43,18 @@
   font-size: 1em;
   font-weight: 300;
 }
+  
+.page-sections {
+  margin: auto;
+  margin-bottom: 350px; /* Same height as footer */
+  max-width: var(--page-width);
+}
 </style>
   
   <body>
 
     <div class="container">
-      <section id="main_content">
+      <section id="page-sections">
         {{ content }}
       </section>
     </div>
