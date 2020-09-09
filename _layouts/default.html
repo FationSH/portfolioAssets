@@ -13,15 +13,12 @@
 html {
   --scroll-behavior: smooth;
   scroll-behavior: var(--scroll-behavior);
-  
-  background: rgb(236, 240, 241);
-  
+ 
   @media (prefers-reduced-motion: reduce) {
     --scroll-behavior: auto;
   }
 }
-  
-  .content{
+.content{
   width: 850px; 
   margin: auto;
   margin-bottom: 350px; /* Same height as footer */
@@ -43,18 +40,12 @@ html {
   font-size: 1em;
   font-weight: 300;
 }
-  
-.page-sections {
-  margin: auto;
-  margin-bottom: 350px; /* Same height as footer */
-  max-width: var(--page-width);
-}
 </style>
   
   <body>
 
     <div class="container">
-      <section id="page-sections">
+      <section id="main_content">
         {{ content }}
       </section>
     </div>
