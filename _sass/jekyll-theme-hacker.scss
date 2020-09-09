@@ -28,19 +28,22 @@ body {
 
 .container {
   width: 90%;
+  margin-bottom: 350px; /* Same height as footer */
   max-width: $container-max-width;
   margin: 0 auto;
 }
 
 .content{
-  width: 850px; 
+  width: 90%; 
   margin: auto;
-  margin-bottom: 350px; /* Same height as footer */
+  margin-bottom: 350px; /* Same height as footer */\
+  max-width: $container-max-width;
   padding: 100px 0;
 }
 
 .fixed_footer{
-  width: 100%;
+  width: 90%;
+  max-width: $container-max-width;
   height: 350px;
   background: #111;
   position: fixed; left: 0; bottom: 0;
