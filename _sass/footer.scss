@@ -1,3 +1,14 @@
+html {
+  --scroll-behavior: smooth;
+  scroll-behavior: var(--scroll-behavior);
+  
+  background: rgb(236, 240, 241);
+  
+  @media (prefers-reduced-motion: reduce) {
+    --scroll-behavior: auto;
+  }
+}
+
 .content{
   width: 850px; 
   margin: auto;
