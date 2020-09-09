@@ -1,6 +1,4 @@
-# Welcome to my Page
-
-## About me
+# About me
 ---
 >The name's ***FATION SHEHAJ***. I am a tireless seeker of knowledge.
 >
