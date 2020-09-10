@@ -38,4 +38,5 @@ Fairness in a real Social Network. [page](https://george50450.github.io/social_n
 E-mail : `fsechai (at) cse.uoi.gr`
 
 My LinkedIn [account](https://www.linkedin.com/in/fation-shehaj/)
+
 Instagram : @toni.ssh
