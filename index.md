@@ -36,6 +36,8 @@ Fairness in a real Social Network. [page](https://george50450.github.io/social_n
 
 A simple app to send SMS to 13033. [playstore](https://play.google.com/store/apps/details?id=sotiris.zogos.a13033)
 
+An android app for Interclima in Rhodes. [more information](interclima.html)
+
 ### Contact Me
 
 E-mail : `fsechai (at) cse.uoi.gr`
