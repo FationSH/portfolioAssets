@@ -40,7 +40,7 @@ An android app for Interclima in Rhodes. [more information](interclima.html)
 
 ### Contact Me
 
-E-mail : `fsechai (at) cse.uoi.gr`
+E-mail : `fation.sh94 (at) gmail.com`
 
 My LinkedIn [account](https://www.linkedin.com/in/fation-shehaj/)
 
