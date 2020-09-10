@@ -34,7 +34,7 @@ On your last day on earth, the person you became will meet the person you could 
 
 Fairness in a real Social Network. [page](https://george50450.github.io/social_networks/)
 
-A simple app to send SMS to 13033 for COVID-19. [playstore](https://play.google.com/store/apps/details?id=sotiris.zogos.a13033)
+A simple app to send SMS to 13033. [playstore](https://play.google.com/store/apps/details?id=sotiris.zogos.a13033)
 
 ### Contact Me
 
