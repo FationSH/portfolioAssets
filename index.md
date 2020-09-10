@@ -4,12 +4,9 @@
 >
 >**CV:**
 >
->
 >I am currently a postgraduate student at the University of Ioannina.
 >
 >Field of study : **Data and Computer Systems Engineering**.
->
->
 >
 >**Bachelor of Engineering** : Computer Science and Engineering. University of Ioannina, Greece (2012-2017).
 >
