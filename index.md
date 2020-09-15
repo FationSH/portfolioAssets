@@ -32,7 +32,7 @@ On your last day on earth, the person you became will meet the person you could 
 ### Projects
 * &nbsp; **GitHub** [repositories](https://github.com/FationSH?tab=repositories)
 
-* &nbsp; Design and Modeling of a Low-Cost 3DOF Haptic Interface. [view pdf in greek](/3DoF_Interface/3Dof_Haptic_Robot.html)
+* &nbsp; Design and Modeling of a Low-Cost 3DOF Haptic Interface. [view pdf in greek](3DoF_Interface/3Dof_Haptic_Robot.html)
 
 * &nbsp; Fairness in a real Social Network. [page](https://george50450.github.io/social_networks/)
 
