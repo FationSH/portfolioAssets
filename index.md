@@ -45,6 +45,8 @@ On your last day on earth, the person you became will meet the person you could 
 
 Extreme Sports, Parkour and Calisthenics [YouTube Video](https://www.youtube.com/watch?v=qzZcui2diGw)
 
+Astronomy, Technology, Chess
+
 ### Contact Me
 
 E-mail : `fation.sh94 (at) gmail.com`
