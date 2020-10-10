@@ -9,7 +9,7 @@
 > * I am a postgraduate student at the University of Ioannina.
 >Field of study : **Data and Computer Systems Engineering** (10/2019 - ).
 >
-> * **Junior Mobile Engineer** at PD Neurotechnology (09/2020 - ).
+> * **Junior Mobile Software Engineer** at PD Neurotechnology (09/2020 - ).
 >
 > ### PAST
 >
