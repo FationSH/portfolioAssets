@@ -4,9 +4,15 @@
 >
 >**CV:**
 >
->I am currently a postgraduate student at the University of Ioannina.
+> ### CURRENTLY
+>
+>I am a postgraduate student at the University of Ioannina.
 >
 >Field of study : **Data and Computer Systems Engineering**.
+>
+> **Junior Mobile Engineer** at PD Neurotechnology.
+>
+> ### PAST
 >
 >**Bachelor of Engineering** : Computer Science and Engineering. University of Ioannina, Greece (2012-2017).
 >
