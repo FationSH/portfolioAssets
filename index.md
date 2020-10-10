@@ -2,15 +2,14 @@
 ---
 >The name's ***FATION SHEHAJ***. I am a tireless seeker of knowledge.
 >
->**CV:**
+> ## CV:
 >
 > ### CURRENTLY
 >
 > * I am a postgraduate student at the University of Ioannina.
+>Field of study : **Data and Computer Systems Engineering** (10/2019 - ).
 >
->Field of study : **Data and Computer Systems Engineering**.
->
-> * **Junior Mobile Engineer** at PD Neurotechnology.
+> * **Junior Mobile Engineer** at PD Neurotechnology (09/2020 - ).
 >
 > ### PAST
 >
