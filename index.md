@@ -6,11 +6,11 @@
 >
 > ### CURRENTLY
 >
->I am a postgraduate student at the University of Ioannina.
+> * I am a postgraduate student at the University of Ioannina.
 >
 >Field of study : **Data and Computer Systems Engineering**.
 >
-> **Junior Mobile Engineer** at PD Neurotechnology.
+> * **Junior Mobile Engineer** at PD Neurotechnology.
 >
 > ### PAST
 >
