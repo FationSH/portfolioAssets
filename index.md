@@ -23,15 +23,15 @@
 ```markdown
 Motto:
 
-Someone once tolde me the definition of hell:
+Someone once told me the definition of hell:
 On your last day on earth, the person you became will meet the person you could have become.
 ```
 
 ### Interests
-1. Algorithms and Data Structures
-2. Graph analysis
-3. Robotics
-4. Android
+1. Android
+2. Robotics
+3. Algorithms and Data Structures
+4. Graph analysis
 
 
 ### Projects
