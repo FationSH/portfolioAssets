@@ -38,13 +38,13 @@ On your last day on earth, the person you became will meet the person you could 
 
 * &nbsp; **GitHub** [repositories](https://github.com/FationSH?tab=repositories)
 
-* &nbsp; Design and Modeling of a Low-Cost 3DoF Haptic Interface. [View pdf in greek](https://github.com/FationSH/myPort/blob/master/3DoF_Interface/3DoF_HapticRB.pdf) (Thesis | Robotics)
+* &nbsp; Design and Modeling of a Low-Cost 3DoF Haptic Interface. [View pdf in greek](https://github.com/FationSH/myPort/blob/master/3DoF_Interface/3DoF_HapticRB.pdf) `Thesis | Robotics`
 
-* &nbsp; Fairness in a real Social Network. [Page](https://george50450.github.io/social_networks/) (Graph analysis)
+* &nbsp; Fairness in a real Social Network. [Page](https://george50450.github.io/social_networks/) `Graph analysis`
 
-* &nbsp; A simple app to send SMS to 13033. [Playstore](https://play.google.com/store/apps/details?id=sotiris.zogos.a13033) (Android)
+* &nbsp; A simple app to send SMS to 13033. [Playstore](https://play.google.com/store/apps/details?id=sotiris.zogos.a13033) `Android`
 
-* &nbsp; A mobile app for Interclima S.A. in Rhodes. [More information](interclima.html) (Android)
+* &nbsp; A mobile app for Interclima S.A. in Rhodes. [More information](interclima.html) `Android`
 
 
 ### Hobbies
