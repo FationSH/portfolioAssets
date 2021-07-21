@@ -6,12 +6,17 @@
 >
 > ### CURRENTLY
 >
-> * I am a postgraduate student at the University of Ioannina.
->Field of study : **Data and Computer Systems Engineering** (10/2019 - ).
->
-> * **Junior Mobile Software Engineer** at PD Neurotechnology (09/2020 - ).
+> * **Software Engineer** at NIKI Ltd Digital Engineering (07/2021 - ).
 >
 > ### PAST
+> 
+> ### WORK EXPERIENCE
+>
+>* **Mobile Software Engineer** at PD Neurotechnology (09/2020 - 07/2021).
+>
+> ### EDUCATION
+> 
+>**Master of Science** : Data and Computer Systems Engineering (10/2019 - 07/2021).
 >
 >**Bachelor of Engineering** : Computer Science and Engineering. University of Ioannina, Greece (2012-2017).
 >
@@ -37,6 +42,8 @@ On your last day on earth, the person you became will meet the person you could 
 ### Projects
 
 * &nbsp; **GitHub** [repositories](https://github.com/FationSH?tab=repositories)
+
+* &nbsp; MSc Thesis: A Study of Schema & Software Co-evolution for Relational Databases in Free Open-Source Projects [View pdf in English](https://github.com/FationSH/myPort/blob/master/MScThesis/MScThesisFShehaj.pdf)`Thesis`
 
 * &nbsp; Design and Modeling of a Low-Cost 3DoF Haptic Interface. [View pdf in greek](https://github.com/FationSH/myPort/blob/master/3DoF_Interface/3DoF_HapticRB.pdf) `Thesis-Robotics`
 
