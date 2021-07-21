@@ -2,17 +2,15 @@
 ---
 >The name's ***FATION SHEHAJ***. I am a tireless seeker of knowledge.
 >
-> ## CV:
->
-> ### CURRENTLY
+> ## == CURRENTLY ==
 >
 > * **Software Engineer** at NIKI Ltd Digital Engineering (07/2021 - ).
 >
-> ### PAST
+> ## == PAST ==
 > 
 > ### WORK EXPERIENCE
 >
->* **Mobile Software Engineer** at PD Neurotechnology (09/2020 - 07/2021).
+>**Mobile Software Engineer** at PD Neurotechnology (09/2020 - 07/2021).
 >
 > ### EDUCATION
 > 
