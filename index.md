@@ -2,11 +2,11 @@
 ---
 >The name's ***FATION SHEHAJ***. I am a tireless seeker of knowledge.
 >
-> ## == CURRENTLY ==
+> ## ___ CURRENTLY
 >
 > * **Software Engineer** at NIKI Ltd Digital Engineering (07/2021 - ).
 >
-> ## == PAST ==
+> ## ___ PAST
 > 
 > ### WORK EXPERIENCE
 >
@@ -16,9 +16,9 @@
 > 
 >**Master of Science** : Data and Computer Systems Engineering (10/2019 - 07/2021).
 >
->**Bachelor of Engineering** : Computer Science and Engineering. University of Ioannina, Greece (2012-2017).
->
 >**Integrated master** : Design and Implementation of a 3DoF Haptic Device (2016-2017).
+>
+>**Bachelor of Engineering** : Computer Science and Engineering. University of Ioannina, Greece (2012-2017).
 >
 >**Internship** : Terracom Informatics, Ioannina (Greece) (07/2016-09/2016).
 
