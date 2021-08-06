@@ -4,13 +4,15 @@
 >
 > ## ___ CURRENTLY
 >
-> * **Software Engineer** at NIKI Ltd Digital Engineering (07/2021 - ).
+> * **Software Engineer** at NIKI Ltd Digital Engineering (08/2021 - ).
 >
 > ## ___ PAST
 > 
 > ### WORK EXPERIENCE
 >
 >**Mobile Software Engineer** at PD Neurotechnology (09/2020 - 07/2021).
+>
+>**Internship** : Terracom Informatics, Ioannina (Greece) (07/2016-09/2016).
 >
 > ### EDUCATION
 > 
@@ -19,9 +21,6 @@
 >**Integrated master** : Design and Implementation of a 3DoF Haptic Device (2016-2017).
 >
 >**Bachelor of Engineering** : Computer Science and Engineering. University of Ioannina, Greece (2012-2017).
->
->**Internship** : Terracom Informatics, Ioannina (Greece) (07/2016-09/2016).
-
 
 ```markdown
 Motto:
@@ -43,14 +42,15 @@ On your last day on earth, the person you became will meet the person you could 
 
 * &nbsp; MSc Thesis: A Study of Schema & Software Co-evolution for Relational Databases in Free Open-Source Projects [View pdf](https://github.com/FationSH/myPort/blob/master/MScThesis/MScThesisFShehaj.pdf) `Thesis`
 
-* &nbsp; Design and Modeling of a Low-Cost 3DoF Haptic Interface. [View pdf](https://github.com/FationSH/myPort/blob/master/3DoF_Interface/3DoF_HapticRB.pdf) `Thesis-Robotics`
+* &nbsp; Thesis: Design and Modeling of a Low-Cost 3DoF Haptic Interface. [View pdf](https://github.com/FationSH/myPort/blob/master/3DoF_Interface/3DoF_HapticRB.pdf) `Thesis-Robotics`
 
 * &nbsp; Fairness in a real Social Network. [Page](https://george50450.github.io/social_networks/) `Graph analysis`
 
-* &nbsp; A simple app to send SMS to 13033. [Playstore](https://play.google.com/store/apps/details?id=sotiris.zogos.a13033) `Android`
+* &nbsp; A simple app to send SMS to 13033. [Playstore](https://play.google.com/store/apps/details?id=sotiris.zogos.a13033) `Android - Java`
 
-* &nbsp; A mobile app for Interclima S.A. in Rhodes. [More information](interclima.html) `Android`
+* &nbsp; A tablet app for Interclima S.A. in Rhodes. [More information](interclima.html) `Android - Java, SQLite, pdf, javax.crypto`
 
+* &nbsp; A prank calculator app. [Playstore](https://play.google.com/store/apps/details?id=com.fsharp.calculator) `Android - Kotlin`
 
 ### Hobbies
 
