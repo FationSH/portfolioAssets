@@ -14,20 +14,21 @@
 >
 >* **Mobile Software Engineer** at PD Neurotechnology (09/2020 - 07/2021).
 >
->* **University teaching assistant** at department of Computer Science and Engineering. University of Ioannina - School of Engineering, Greece (09/2019-01/2020).
+>* **University teaching assistant** at department of Computer Science and Engineering.<br/>
+> &nbsp; University of Ioannina - School of Engineering, Greece (09/2019-01/2020).
 >
 >* **Internship** : Terracom Informatics, Ioannina (Greece) (07/2016-09/2016).
 >
 > ### EDUCATION
 > 
->* **Master of Science** : Data and Computer Systems Engineering.
-> &nbsp;  &nbsp;  &nbsp; University of Ioannina - School of Engineering, Greece (10/2019 - 07/2021 && 09/2020 - 01/2021).
+>* **Master of Science** : Data and Computer Systems Engineering.<br/>
+> &nbsp; University of Ioannina - School of Engineering, Greece (10/2019 - 07/2021 && 09/2020 - 01/2021).
 >
->* **Integrated master** : Design and Implementation of a 3DoF Haptic Device.
-> &nbsp;  &nbsp;  &nbsp; University of Ioannina - School of Engineering, Greece (2016-2017).
+>* **Integrated master** : Design and Implementation of a 3DoF Haptic Device.<br/>
+> &nbsp; University of Ioannina - School of Engineering, Greece (2016-2017).
 >
->* **Bachelor of Engineering** : Computer Science and Engineering.
-> &nbsp;  &nbsp;  &nbsp; University of Ioannina - School of Engineering, Greece (2012-2017).
+>* **Bachelor of Engineering** : Computer Science and Engineering.<br/>
+> &nbsp; University of Ioannina - School of Engineering, Greece (2012-2017).
 
 ```markdown
 Motto:
