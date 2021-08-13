@@ -4,23 +4,25 @@
 >
 > ## ___ CURRENTLY
 >
-> * **Software Engineer** at NIKI Ltd Digital Engineering (08/2021 - ).
+> **Software Engineer** at NIKI Ltd Digital Engineering (09/2021 - ).
+>
+> **Full member of the Technical Chamber of Greece (since 07/2021).
 >
 > ## ___ PAST
 > 
 > ### WORK EXPERIENCE
 >
->**Mobile Software Engineer** at PD Neurotechnology (09/2020 - 07/2021).
+>* **Mobile Software Engineer** at PD Neurotechnology (09/2020 - 07/2021).
 >
->**Internship** : Terracom Informatics, Ioannina (Greece) (07/2016-09/2016).
+>* **Internship** : Terracom Informatics, Ioannina (Greece) (07/2016-09/2016).
 >
 > ### EDUCATION
 > 
->**Master of Science** : Data and Computer Systems Engineering (10/2019 - 07/2021).
+>* **Master of Science** : Data and Computer Systems Engineering. University of Ioannina - School of Engineering, Greece (10/2019 - 07/2021).
 >
->**Integrated master** : Design and Implementation of a 3DoF Haptic Device (2016-2017).
+>* **Integrated master** : Design and Implementation of a 3DoF Haptic Device. University of Ioannina - School of Engineering, Greece (2016-2017).
 >
->**Bachelor of Engineering** : Computer Science and Engineering. University of Ioannina, Greece (2012-2017).
+>* **Bachelor of Engineering** : Computer Science and Engineering. University of Ioannina - School of Engineering, Greece (2012-2017).
 
 ```markdown
 Motto:
