@@ -22,7 +22,7 @@
 > ### EDUCATION
 > 
 >* **Master of Science** : Data and Computer Systems Engineering.<br/>
-> &nbsp; University of Ioannina - School of Engineering, Greece (10/2019 - 07/2021 && 09/2020 - 01/2021).
+> &nbsp; University of Ioannina - School of Engineering, Greece (10/2019-07/2021 AND 09/2020-01/2021).
 >
 >* **Integrated master** : Design and Implementation of a 3DoF Haptic Device.<br/>
 > &nbsp; University of Ioannina - School of Engineering, Greece (2016-2017).
