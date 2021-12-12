@@ -4,7 +4,8 @@
 >
 > ## ___ CURRENTLY
 >
-> **Software Engineer** at NIKI Ltd Digital Engineering (09/2021 - ).
+> **Software Engineer** external partner at NIKI Ltd Digital Engineering (09/2021 - ).
+> Working with TWT gmbh, BMW and Daimler.
 >
 > Full **member** of the Technical Chamber of Greece (since 07/2021).
 >
