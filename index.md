@@ -4,7 +4,8 @@
 >
 > ## ___ CURRENTLY
 >
-> **Software Engineer** external partner at NIKI Ltd Digital Engineering (09/2021 - ).
+> **Software Engineer** : external partner at NIKI Ltd Digital Engineering (09/2021 - ).
+> 
 > Working with TWT gmbh, BMW and Daimler.
 >
 > Full **member** of the Technical Chamber of Greece (since 07/2021).
@@ -16,14 +17,14 @@
 >* **Mobile Software Engineer** at PD Neurotechnology (09/2020 - 07/2021).
 >
 >* **University teaching assistant** at department of Computer Science and Engineering.<br/>
-> &nbsp; University of Ioannina - School of Engineering, Greece (09/2019-01/2020).
+> &nbsp; University of Ioannina - School of Engineering, Greece (10/2019-02/2020) && (10/2020-02/2021).
 >
->* **Internship** : Terracom Informatics, Ioannina (Greece) (07/2016-09/2016).
+>* **Internship** : Mobile developer at Terracom Informatics, Ioannina (Greece) (07/2016-09/2016).
 >
 > ### EDUCATION
 > 
 >* **Master of Science** : Data and Computer Systems Engineering.<br/>
-> &nbsp; University of Ioannina - School of Engineering, Greece (10/2019-07/2021 AND 09/2020-01/2021).
+> &nbsp; University of Ioannina - School of Engineering, Greece (10/2019-07/2021).
 >
 >* **Integrated master** : Design and Implementation of a 3DoF Haptic Device.<br/>
 > &nbsp; University of Ioannina - School of Engineering, Greece (2016-2017).
