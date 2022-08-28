@@ -50,7 +50,7 @@ On your last day on earth, the person you became will meet the person you could 
 
 * &nbsp; **GitHub** [repositories](https://github.com/FationSH?tab=repositories)
 
-* &nbsp; MSc Thesis: A Study of Schema & Software Co-evolution for Relational Databases in Free Open-Source Projects [View pdf](https://github.com/FationSH/myPort/blob/master/MScThesis/MScThesisFShehaj.pdf) `Thesis`
+* &nbsp; MSc Thesis: A Study of Schema & Software Co-evolution for Relational Databases in Free Open-Source Projects [View pdf](https://github.com/FationSH/myPort/blob/master/MScThesis/MScThesisFShehaj.pdf) [View Presentation](https://github.com/FationSH/myPort/blob/master/MScThesis/MScShehajPresentation.pptx) `Thesis`
 
 * &nbsp; Thesis: Design and Modeling of a Low-Cost 3DoF Haptic Interface. [View pdf](https://github.com/FationSH/myPort/blob/master/3DoF_Interface/3DoF_HapticRB.pdf) `Thesis-Robotics`
 
