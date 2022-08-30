@@ -4,9 +4,9 @@
 >
 > ## ___ CURRENTLY
 >
-> **Software Engineer** : external partner at NIKI Ltd Digital Engineering (09/2021 - ).
+> **Software Engineer** : external partner at NIKI Ltd Digital Engineering (09/2021 - ) and TWT gmbh.
 > 
-> Working with TWT gmbh, BMW and Daimler.
+> Assisting German car manufacturers (mainly BMW and Daimler).
 >
 > Full **member** of the Technical Chamber of Greece (since 07/2021).
 >
@@ -14,7 +14,7 @@
 > 
 > ### WORK EXPERIENCE
 >
->* **Mobile Software Engineer** at PD Neurotechnology (09/2020 - 07/2021).
+>* **Mobile Software Engineer** at PD Neurotechnology (09/2020 - 07/2021) Developing android native (Java) apps for Deep Brain Stimulation (DBS) surgical treatment and [smart soles](https://www.smart-insole.eu/).
 >
 >* **University teaching assistant** at department of Computer Science and Engineering.<br/>
 > &nbsp; University of Ioannina - School of Engineering, Greece (10/2019-02/2020) && (10/2020-02/2021).
@@ -53,6 +53,8 @@ On your last day on earth, the person you became will meet the person you could 
 * &nbsp; MSc Thesis: A Study of Schema & Software Co-evolution for Relational Databases in Free Open-Source Projects [View pdf](https://github.com/FationSH/myPort/blob/master/MScThesis/MScThesisFShehaj.pdf) [View Presentation](https://github.com/FationSH/myPort/blob/master/MScThesis/MScShehajPresentation.pptx) `Thesis`
 
 * &nbsp; Thesis: Design and Modeling of a Low-Cost 3DoF Haptic Interface. [View pdf](https://github.com/FationSH/myPort/blob/master/3DoF_Interface/3DoF_HapticRB.pdf) `Thesis-Robotics`
+
+* &nbsp; TWT project: Cubic AI -> draw your own desired line and it will predict car movement. [Page](https://cubicai.twt-gmbh.de/home) `Angular - ng2-charts - Ionic - ASP.NET Core - .NET assemblies - MATLAB Compiler SDK - Matlab Runtime`
 
 * &nbsp; Fairness in a real Social Network. [Page](https://george50450.github.io/social_networks/) `Graph analysis`
 
