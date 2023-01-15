@@ -50,9 +50,9 @@ On your last day on earth, the person you became will meet the person you could 
 
 * &nbsp; **GitHub** [repositories](https://github.com/FationSH?tab=repositories)
 
-* &nbsp; MSc Thesis: A Study of Schema & Software Co-evolution for Relational Databases in Free Open-Source Projects [View pdf](https://github.com/FationSH/myPort/blob/master/MScThesis/MScThesisFShehaj.pdf) [View Presentation](https://github.com/FationSH/myPort/blob/master/MScThesis/MScShehajPresentation.pptx) `Thesis`
+* &nbsp; MSc Thesis: A Study of Schema & Software Co-evolution for Relational Databases in Free Open-Source Projects [PDF](https://github.com/FationSH/myPort/blob/master/MScThesis/MScThesisFShehaj.pdf) [Presentation](https://github.com/FationSH/myPort/blob/master/MScThesis/MScShehajPresentation.pptx) [Paper](https://openproceedings.org/2023/conf/edbt/paper-160.pdf) `Thesis`
 
-* &nbsp; Thesis: Design and Modeling of a Low-Cost 3DoF Haptic Interface. [View pdf](https://github.com/FationSH/myPort/blob/master/3DoF_Interface/3DoF_HapticRB.pdf) `Thesis-Robotics`
+* &nbsp; Thesis: Design and Modeling of a Low-Cost 3DoF Haptic Interface. [PDF](https://github.com/FationSH/myPort/blob/master/3DoF_Interface/3DoF_HapticRB.pdf) `Thesis-Robotics`
 
 * &nbsp; TWT project: Cubic AI -> draw your own desired line and it will predict car movement. [Page](https://cubicai.twt-gmbh.de/home) `Angular - ng2-charts - Ionic - ASP.NET Core - .NET assemblies - MATLAB Compiler SDK - Matlab Runtime`
 
@@ -74,6 +74,6 @@ Astronomy, Technology, Chess
 
 E-mail : `fation.sh94 (at) gmail.com`
 
-LinkedIn [account](https://www.linkedin.com/in/fation-shehaj/)
+[LinkedIn](https://www.linkedin.com/in/fation-shehaj/)
 
 Instagram : [toni.ssh](https://www.instagram.com/toni.ssh/)
