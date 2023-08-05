@@ -1,0 +1,22 @@
+An android application created for Interclima AE, a Refrigeration & Air Conditioning Business in Rhodes.
+
+Αpplication description
+This application is used by Interclima AE.
+
+The company uses this application to keep track of all of its job operations. With this application, they can create PDF reports with detailed information about the work operations made by them. The report can be signed by both sides and send via email to multiple recipients.
+
+
+Technologies used:
+Java, XML, SQLite, Android Studio, PdfGenerator, javax.crypto, AndroidPdfViewer.
+
+
+Basic application capabilities.
+Create report in a PDF format.
+Send report to multiple emails.
+Insert signatures (encrypted).
+Save an unfinished job/report.
+Preview created PDF before sending.
+Clear folder with old reports/pdfs
+Add multiple dates. Add start/end time of work operation.
+Select tasks, spare parts used from lists or add yours.
+Backup and Load data e.g., saved emails, places etc. for use in different/new tablets.
